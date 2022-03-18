@@ -1,1 +1,1 @@
-https://github.com/JonaKrist/markdown-portfolio/edit/add-images-links/_includes/03-links.md?pr=%2FJonaKrist%2Fmarkdown-portfolio%2Fpull%2F3
+[GitHub](http://github.com)
